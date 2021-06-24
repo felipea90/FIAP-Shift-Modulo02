@@ -1,0 +1,13 @@
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.exe
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.deps.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.dev.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csprojAssemblyReference.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfoInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfo.cs
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csproj.CoreCompileInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.csprojAssemblyReference.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.AssemblyInfoInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.AssemblyInfo.cs
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.csproj.CoreCompileInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.exe
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.deps.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.runtimeconfig.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.runtimeconfig.dev.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula01\Fiap.Aula01\Fiap.Aula01.Exemplo01\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exemplo01.genruntimeconfig.cache
