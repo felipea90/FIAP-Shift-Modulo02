@@ -54,6 +54,68 @@ namespace Exercicios
 
             //#################################
 
+            //Exercício 03
+            Console.WriteLine("Programa da Faculdade com as turmas A e B do curso de Farmácia.");
+
+            int escolha, turmaQtd, turmaA=0, turmaB=0;
+            double mediaA=0, mediaB=0, mediaTotal=0;
+
+            Console.WriteLine("Informe a quantidade de alunos no curso de Farmácia:");
+            turmaQtd = int.Parse(Console.ReadLine());
+
+            double[] notasA = new double[turmaQtd], notasB = new double[turmaQtd];
+            string[] alunosA = new string[turmaQtd], alunosB = new string[turmaQtd];
+
+            Console.WriteLine("Informar a qual turma pertence o aluno.");
+
+            for (int i=0; i < turmaQtd; i++)
+            {
+                Console.WriteLine("1 - Turma A \n2 - Turma B");
+                escolha = int.Parse(Console.ReadLine());
+
+                if (escolha == 1)
+                {
+                    Console.WriteLine("Informar o nome do aluno:");
+                    alunosA[i] = Console.ReadLine();
+
+                    Console.WriteLine("Informar a nota do aluno:");
+                    notasA[i] = double.Parse(Console.ReadLine());
+
+                    mediaA = mediaA + notasA[i];
+
+                    turmaA++;
+                }
+                else if (escolha == 2)
+                {
+                    Console.WriteLine("Informar o nome do aluno:");
+                    alunosB[i] = Console.ReadLine();
+
+                    Console.WriteLine("Informar a nota do aluno:");
+                    notasB[i] = double.Parse(Console.ReadLine());
+
+                    mediaB = mediaB + notasB[i];
+
+                    turmaB++;
+                }
+                else
+                {
+                    Console.WriteLine("Opção Inválida.");
+                    i--;
+                }
+
+            }
+
+            mediaTotal = (mediaA + mediaB) / turmaQtd;
+            Console.WriteLine($"A média de todos os alunos do curso de Farmácia foi {mediaTotal}");
+
+            mediaA /= turmaA;
+            Console.WriteLine($"A média dos alunos da Turma A foi {mediaA}");
+
+            mediaB /= turmaB;
+            Console.WriteLine($"A média dos alunos da Turma B foi {mediaB}");
+
+            //#################################
+
 
 
         }
