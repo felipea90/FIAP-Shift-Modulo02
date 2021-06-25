@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula01.Exemplo01", "Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios", "Exercicios\Exercicios.csproj", "{DAC8E688-C954-499D-91AE-F39035905357}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula01.Exemplo02", "Fiap.Aula01.Exemplo02\Fiap.Aula01.Exemplo02.csproj", "{6930B210-9A15-4514-8D66-6EA95F40F3DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DAC8E688-C954-499D-91AE-F39035905357}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAC8E688-C954-499D-91AE-F39035905357}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAC8E688-C954-499D-91AE-F39035905357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6930B210-9A15-4514-8D66-6EA95F40F3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6930B210-9A15-4514-8D66-6EA95F40F3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6930B210-9A15-4514-8D66-6EA95F40F3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6930B210-9A15-4514-8D66-6EA95F40F3DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
