@@ -1,0 +1,13 @@
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.exe
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.deps.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.runtimeconfig.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.runtimeconfig.dev.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\bin\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.csprojAssemblyReference.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.AssemblyInfoInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.AssemblyInfo.cs
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.csproj.CoreCompileInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula02\Fiap.Aula02\Fiap.Aula02.Exemplo\obj\Debug\netcoreapp3.1\Fiap.Aula02.Exemplo.genruntimeconfig.cache
