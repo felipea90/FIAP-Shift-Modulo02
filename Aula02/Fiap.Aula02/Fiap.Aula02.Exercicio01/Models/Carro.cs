@@ -8,13 +8,14 @@ namespace Fiap.Aula02.Exercicio01.Models
 {
     public class Carro
     {
-        public string Marca { get; set; }
         public string Modelo { get; set; }
-        public double Potencia { get; set; }
-        public double Peso { get; set; }
-        public string Cor { get; set; }
-        public DateTime AnoFabricacao { get; set; }
+        public int Ano { get; set; }
+        public double Comprimento { get; set; }
+        public Cor Cor { get; set; }
+        public string Placa { get; set; }
         public decimal Valor { get; set; }
+        public bool ArCond { get; set; }
+
 
     }
 }
