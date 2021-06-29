@@ -20,5 +20,17 @@
 
         //Variáveis não são inicializadas com o valor padrão
 
+        //Métodos
+        //Calcular o valor do produto com desconto e retornar na tela
+        public decimal CalcularDesconto(decimal desconto)
+        {
+            return Valor - (Valor * desconto / 100);
+        }
+
+        //Cadastrar um produto, não recebe e não retorna informação (Void)
+        public void Cadastrar()
+        {
+            System.Console.WriteLine("Produto em processo de cadastro...");
+        }
     }
 }

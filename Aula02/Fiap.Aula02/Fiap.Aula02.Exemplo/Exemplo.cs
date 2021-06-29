@@ -20,6 +20,7 @@ namespace Fiap.Aula02.Exemplo
             produto1.Valor = 1500;
 
             produto2.Nome = "Fiesta";
+            produto2.Valor = 32500;
 
             fabricante1.Nome = "Dell";
             fabricante1.Ativo = false;
@@ -47,6 +48,18 @@ namespace Fiap.Aula02.Exemplo
 
             Console.WriteLine($"Produto 2 {produto2.Nome}");
             Console.WriteLine($"Fabricante 2 {produto2.Fabricante.Nome}");
+
+            //Chamando os Métodos do Produto
+
+            //Calcular o desconto
+            var desconto1 = produto1.CalcularDesconto(15);
+            var desconto2 = produto2.CalcularDesconto(10);
+
+            Console.WriteLine($"O Valor final do produto {produto1.Nome} será R$ {desconto1}\n");
+            Console.WriteLine($"O Valor final do produto {produto2.Nome} será R$ {desconto2}");
+
+            //Chamando o Void
+            produto1.Cadastrar();
 
         }
     }
