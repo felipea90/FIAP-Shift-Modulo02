@@ -1,0 +1,16 @@
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\bin\Debug\net5.0\Fiap.Aula03.exe
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\bin\Debug\net5.0\Fiap.Aula03.deps.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\bin\Debug\net5.0\Fiap.Aula03.runtimeconfig.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\bin\Debug\net5.0\Fiap.Aula03.runtimeconfig.dev.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\bin\Debug\net5.0\Fiap.Aula03.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\bin\Debug\net5.0\ref\Fiap.Aula03.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\bin\Debug\net5.0\Fiap.Aula03.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\obj\Debug\net5.0\Fiap.Aula03.csprojAssemblyReference.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\obj\Debug\net5.0\Fiap.Aula03.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\obj\Debug\net5.0\Fiap.Aula03.AssemblyInfoInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\obj\Debug\net5.0\Fiap.Aula03.AssemblyInfo.cs
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\obj\Debug\net5.0\Fiap.Aula03.csproj.CoreCompileInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\obj\Debug\net5.0\Fiap.Aula03.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\obj\Debug\net5.0\ref\Fiap.Aula03.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\obj\Debug\net5.0\Fiap.Aula03.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula03\Fiap.Aula03\Fiap.Aula03\obj\Debug\net5.0\Fiap.Aula03.genruntimeconfig.cache
