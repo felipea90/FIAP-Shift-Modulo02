@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.Aula04.ExemploHeranca02\\Fiap.Aula04.ExemploHeranca02.csproj": {}
+  },
+  "projects": {
+    "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.Aula04.ExemploHeranca02\\Fiap.Aula04.ExemploHeranca02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.Aula04.ExemploHeranca02\\Fiap.Aula04.ExemploHeranca02.csproj",
+        "projectName": "Fiap.Aula04.ExemploHeranca02",
+        "projectPath": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.Aula04.ExemploHeranca02\\Fiap.Aula04.ExemploHeranca02.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.Aula04.ExemploHeranca02\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.aula04.ExemploHeranca\\Fiap.aula04.ExemploHeranca.csproj": {
+                "projectPath": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.aula04.ExemploHeranca\\Fiap.aula04.ExemploHeranca.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.aula04.ExemploHeranca\\Fiap.aula04.ExemploHeranca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.aula04.ExemploHeranca\\Fiap.aula04.ExemploHeranca.csproj",
+        "projectName": "Fiap.aula04.ExemploHeranca",
+        "projectPath": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.aula04.ExemploHeranca\\Fiap.aula04.ExemploHeranca.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula04\\Fiap.Aula04\\Fiap.aula04.ExemploHeranca\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

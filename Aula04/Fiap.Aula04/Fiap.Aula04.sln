@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula04.Exemplo01", "Fiap.Aula04.Exemplo01\Fiap.Aula04.Exemplo01.csproj", "{1A6BEA87-B126-49C5-B9FB-144E4B27FDE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.aula04.ExemploHeranca", "Fiap.aula04.ExemploHeranca\Fiap.aula04.ExemploHeranca.csproj", "{C0ED6FF4-0E56-4D29-A3C8-B2E179225E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula04.ExemploHeranca02", "Fiap.Aula04.ExemploHeranca02\Fiap.Aula04.ExemploHeranca02.csproj", "{82856466-1E55-46E1-8D6E-5A406A03D5F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1A6BEA87-B126-49C5-B9FB-144E4B27FDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A6BEA87-B126-49C5-B9FB-144E4B27FDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A6BEA87-B126-49C5-B9FB-144E4B27FDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0ED6FF4-0E56-4D29-A3C8-B2E179225E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ED6FF4-0E56-4D29-A3C8-B2E179225E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0ED6FF4-0E56-4D29-A3C8-B2E179225E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ED6FF4-0E56-4D29-A3C8-B2E179225E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82856466-1E55-46E1-8D6E-5A406A03D5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82856466-1E55-46E1-8D6E-5A406A03D5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82856466-1E55-46E1-8D6E-5A406A03D5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82856466-1E55-46E1-8D6E-5A406A03D5F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

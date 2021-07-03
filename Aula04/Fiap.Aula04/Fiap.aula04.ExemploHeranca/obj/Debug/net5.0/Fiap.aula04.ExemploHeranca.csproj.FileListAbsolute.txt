@@ -1,0 +1,16 @@
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\bin\Debug\net5.0\Fiap.aula04.ExemploHeranca.exe
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\bin\Debug\net5.0\Fiap.aula04.ExemploHeranca.deps.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\bin\Debug\net5.0\Fiap.aula04.ExemploHeranca.runtimeconfig.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\bin\Debug\net5.0\Fiap.aula04.ExemploHeranca.runtimeconfig.dev.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\bin\Debug\net5.0\Fiap.aula04.ExemploHeranca.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\bin\Debug\net5.0\ref\Fiap.aula04.ExemploHeranca.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\bin\Debug\net5.0\Fiap.aula04.ExemploHeranca.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\obj\Debug\net5.0\Fiap.aula04.ExemploHeranca.csprojAssemblyReference.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\obj\Debug\net5.0\Fiap.aula04.ExemploHeranca.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\obj\Debug\net5.0\Fiap.aula04.ExemploHeranca.AssemblyInfoInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\obj\Debug\net5.0\Fiap.aula04.ExemploHeranca.AssemblyInfo.cs
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\obj\Debug\net5.0\Fiap.aula04.ExemploHeranca.csproj.CoreCompileInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\obj\Debug\net5.0\Fiap.aula04.ExemploHeranca.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\obj\Debug\net5.0\ref\Fiap.aula04.ExemploHeranca.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\obj\Debug\net5.0\Fiap.aula04.ExemploHeranca.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula04\Fiap.Aula04\Fiap.aula04.ExemploHeranca\obj\Debug\net5.0\Fiap.aula04.ExemploHeranca.genruntimeconfig.cache
