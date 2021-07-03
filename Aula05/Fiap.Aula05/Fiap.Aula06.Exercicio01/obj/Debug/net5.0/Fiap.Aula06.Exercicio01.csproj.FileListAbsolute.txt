@@ -1,0 +1,16 @@
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\bin\Debug\net5.0\Fiap.Aula06.Exercicio01.exe
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\bin\Debug\net5.0\Fiap.Aula06.Exercicio01.deps.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\bin\Debug\net5.0\Fiap.Aula06.Exercicio01.runtimeconfig.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\bin\Debug\net5.0\Fiap.Aula06.Exercicio01.runtimeconfig.dev.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\bin\Debug\net5.0\Fiap.Aula06.Exercicio01.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\bin\Debug\net5.0\ref\Fiap.Aula06.Exercicio01.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\bin\Debug\net5.0\Fiap.Aula06.Exercicio01.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\obj\Debug\net5.0\Fiap.Aula06.Exercicio01.csprojAssemblyReference.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\obj\Debug\net5.0\Fiap.Aula06.Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\obj\Debug\net5.0\Fiap.Aula06.Exercicio01.AssemblyInfoInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\obj\Debug\net5.0\Fiap.Aula06.Exercicio01.AssemblyInfo.cs
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\obj\Debug\net5.0\Fiap.Aula06.Exercicio01.csproj.CoreCompileInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\obj\Debug\net5.0\Fiap.Aula06.Exercicio01.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\obj\Debug\net5.0\ref\Fiap.Aula06.Exercicio01.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\obj\Debug\net5.0\Fiap.Aula06.Exercicio01.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Aula05\Fiap.Aula05\Fiap.Aula06.Exercicio01\obj\Debug\net5.0\Fiap.Aula06.Exercicio01.genruntimeconfig.cache
