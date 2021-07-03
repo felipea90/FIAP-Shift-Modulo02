@@ -17,5 +17,18 @@
             NumeroPaginas = numeroPaginas;
             AnoPublicacao = anoPublicacao;
         }
+
+        //Soobrescrever o método definido na classe "pai" (override)
+        public override decimal CalcularDesconto()
+        {
+            return CalcularDesconto(35);
+        }
+
+        //Sobrescrever o método desconto com Cupom, adicionando cupom FIAPBOOK com 30%
+        public override decimal CalcularDesconto(string cupom)
+        {
+            return cupom.ToUpper() == "FIAPBOOK" ? CalcularDesconto(30) 
+                   : cupom.ToUpper() == "FIAP10" ? CalcularDesconto(10) : Preco;
+        }
     }
 }
