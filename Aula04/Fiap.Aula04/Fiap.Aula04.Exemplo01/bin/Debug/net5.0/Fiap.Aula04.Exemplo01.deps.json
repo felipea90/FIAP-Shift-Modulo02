@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fiap.Aula04.Exemplo01/1.0.0": {
+        "runtime": {
+          "Fiap.Aula04.Exemplo01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fiap.Aula04.Exemplo01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

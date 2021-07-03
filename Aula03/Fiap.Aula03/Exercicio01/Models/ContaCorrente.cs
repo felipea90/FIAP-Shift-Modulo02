@@ -4,6 +4,18 @@ namespace Exercicio01.Models
 {
     public class ContaCorrente
     {
+        public ContaCorrente(
+            double numero,
+            Cliente cliente,
+            ContaPoupanca contaPoupanca,
+            bool especial)
+        {
+            Numero = numero;
+            Cliente = cliente;
+            ContaPoupanca = contaPoupanca;
+            Especial = especial;
+        }
+
         public decimal Saldo { get; private set; }
         public double Numero { get; set; }
         public bool Especial { get; set; }

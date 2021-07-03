@@ -4,6 +4,11 @@ namespace Exercicio01.Models
 {
     public class ContaPoupanca
     {
+        public ContaPoupanca(double numero)
+        {
+            Numero = numero;
+        }
+
         public decimal Saldo { get; private set; }
         public double Numero { get; set; }
         public decimal Rendimentos { get; set; }

@@ -37,19 +37,19 @@ namespace Exercicio01
 
 
             //Instanciar os objetos e atribuir os valores aos seus atributos (propriedades)
-            var cliente = new Cliente();
-            cliente.Nome = nome;
-            cliente.Telefone = telefone;
-            cliente.Cpf = cpf;
+            var cliente = new Cliente(nome: nome, cpf: cpf, telefone: telefone);
+            //cliente.Nome = nome;
+            //cliente.Telefone = telefone;
+            //cliente.Cpf = cpf;
 
-            var cp = new ContaPoupanca();
-            cp.Numero = numeroPoupanca;
+            var cp = new ContaPoupanca(numero: numeroPoupanca);
+            //cp.Numero = numeroPoupanca;
 
-            var cc = new ContaCorrente();
-            cc.Numero = numeroCc;
-            cc.Cliente = cliente;
-            cc.ContaPoupanca = cp;
-            cc.Especial = especial;
+            var cc = new ContaCorrente(numeroCc, cliente, cp, especial);
+            //cc.Numero = numeroCc;
+            //cc.Cliente = cliente;
+            //cc.ContaPoupanca = cp;
+            //cc.Especial = especial;
 
             if (especial)
             {
@@ -62,7 +62,7 @@ namespace Exercicio01
                 cc.Limite = limite;
                 cc.Juros = juros;
             }
-
+            
             int opcao;
 
             do
