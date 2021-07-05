@@ -41,6 +41,9 @@ namespace Fiap.Aula06.Exercicio01_v02
                 formacao = new Formacao(nomeFormacao);
             }
 
+            //Exibir os dados do objeto
+            Console.WriteLine(formacao);
+
             int opcao;
             do
             {
