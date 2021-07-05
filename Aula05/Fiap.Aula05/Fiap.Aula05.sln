@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula05.Exercicio01", "Fiap.Aula05.Exercicio01\Fiap.Aula05.Exercicio01.csproj", "{DE023557-73DF-441C-917E-9227B5EC44DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap.Aula05.Exercicio01", "Fiap.Aula05.Exercicio01\Fiap.Aula05.Exercicio01.csproj", "{DE023557-73DF-441C-917E-9227B5EC44DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula06.Exercicio01", "Fiap.Aula06.Exercicio01\Fiap.Aula06.Exercicio01.csproj", "{271C300D-0D89-4449-BE9E-C25B61FFEDD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap.Aula06.Exercicio01", "Fiap.Aula06.Exercicio01\Fiap.Aula06.Exercicio01.csproj", "{271C300D-0D89-4449-BE9E-C25B61FFEDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula06.Exercicio01_v02", "Fiap.Aula06.Exercicio01_v02\Fiap.Aula06.Exercicio01_v02.csproj", "{E40A0AEE-72EF-41B6-BB19-4341A03B5788}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{271C300D-0D89-4449-BE9E-C25B61FFEDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271C300D-0D89-4449-BE9E-C25B61FFEDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271C300D-0D89-4449-BE9E-C25B61FFEDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40A0AEE-72EF-41B6-BB19-4341A03B5788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40A0AEE-72EF-41B6-BB19-4341A03B5788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40A0AEE-72EF-41B6-BB19-4341A03B5788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40A0AEE-72EF-41B6-BB19-4341A03B5788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

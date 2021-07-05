@@ -34,31 +34,31 @@ namespace Fiap.Aula06.Exercicio01
                 Bacharelado = false
             };
 
-            Console.WriteLine("TECNOLOGO");
-            Console.WriteLine(tecnologo.CalcularMensalidade());
-            Console.WriteLine(tecnologo.CalcularMedia(9, 6));
-            Console.WriteLine(tecnologo.CalcularMedia(8, 7, 2));
+            Console.WriteLine("CURSO TECNOLOGO");
+            Console.WriteLine($"Mensalidade R$ {tecnologo.CalcularMensalidade()}");
+            Console.WriteLine($"Média de duas notas {tecnologo.CalcularMedia(9, 6)}");
+            Console.WriteLine($"Média de três notas {tecnologo.CalcularMedia(8, 7, 2)}");
 
             Console.WriteLine();
 
-            Console.WriteLine("BACHARELADO ENG");
-            Console.WriteLine(engenharia.CalcularMensalidade());
-            Console.WriteLine(engenharia.CalcularMedia(9, 6));
-            Console.WriteLine(engenharia.CalcularMedia(9, 7, 3));
+            Console.WriteLine("CURSO BACHARELADO ENG");
+            Console.WriteLine($"Mensalidade R$ {engenharia.CalcularMensalidade()}");
+            Console.WriteLine($"Média de duas notas {engenharia.CalcularMedia(9, 6)}");
+            Console.WriteLine($"Média de três notas {engenharia.CalcularMedia(9, 7, 3)}");
 
             Console.WriteLine();
 
-            Console.WriteLine("BACHARELADO");
-            Console.WriteLine(biologia.CalcularMensalidade());
-            Console.WriteLine(biologia.CalcularMedia(5, 8));
-            Console.WriteLine(biologia.CalcularMedia(8, 5, 6));
+            Console.WriteLine("CURSO BACHARELADO");
+            Console.WriteLine($"Mensalidade R$ {biologia.CalcularMensalidade()}");
+            Console.WriteLine($"Média de duas notas {biologia.CalcularMedia(5, 8)}");
+            Console.WriteLine($"Média de três notas {biologia.CalcularMedia(8, 5, 6)}");
 
             Console.WriteLine();
 
-            Console.WriteLine("COMUM");
-            Console.WriteLine(secretariado.CalcularMensalidade());
-            Console.WriteLine(secretariado.CalcularMedia(6, 9));
-            Console.WriteLine(secretariado.CalcularMedia(10, 3, 5));
+            Console.WriteLine("CURSO COMUM");
+            Console.WriteLine($"Mensalidade R$ {secretariado.CalcularMensalidade()}");
+            Console.WriteLine($"Média de duas notas {secretariado.CalcularMedia(6, 9)}");
+            Console.WriteLine($"Média de três notas {secretariado.CalcularMedia(10, 3, 5)}");
         }
     }
 }
