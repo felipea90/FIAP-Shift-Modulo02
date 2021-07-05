@@ -33,5 +33,11 @@
             }
 
         }
+
+        //Sobrescrever o método ToString() do Object
+        public override string ToString()
+        {
+            return base.ToString() + $"TCC: {ProjetoConclusao} \nEstágio: {CargaHorarioEstagio} horas";
+        }
     }
 }

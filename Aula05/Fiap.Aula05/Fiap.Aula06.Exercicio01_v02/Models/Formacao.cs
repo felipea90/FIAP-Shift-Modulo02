@@ -59,5 +59,11 @@
         {
             return Mensalidade = Duracao * 400;
         }
+
+        //Sobrescrever o método ToString() do Object
+        public override string ToString()
+        {
+            return $"Nome: {Nome} \nMensalidade: {Mensalidade} \nDuração: {Duracao} horas\n";
+        }
     }
 }

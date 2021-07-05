@@ -17,5 +17,11 @@
         {
             Duracao = 24;
         }
+
+        //Sobrescrever o método ToString() do Object
+        public override string ToString()
+        {
+            return base.ToString() + $"Plano Estendido: {PlanoEstendido}";
+        }
     }
 }

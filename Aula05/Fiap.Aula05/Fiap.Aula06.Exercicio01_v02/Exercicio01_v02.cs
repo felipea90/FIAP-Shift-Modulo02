@@ -14,6 +14,7 @@ namespace Fiap.Aula06.Exercicio01_v02
             Console.WriteLine("Digite a sua formação");
             string nomeFormacao = Console.ReadLine();
 
+            //Instanciando a classe Formacao
             Formacao formacao;
 
             if (opcaoCurso ==2)
@@ -41,9 +42,6 @@ namespace Fiap.Aula06.Exercicio01_v02
                 formacao = new Formacao(nomeFormacao);
             }
 
-            //Exibir os dados do objeto
-            Console.WriteLine(formacao);
-
             int opcao;
             do
             {
@@ -53,7 +51,7 @@ namespace Fiap.Aula06.Exercicio01_v02
                 switch(opcao)
                 {
                     case 1:
-                        Console.WriteLine($"A mensalidade é R$ {formacao.CalcularMensalidade()}");
+                        Console.WriteLine($"A mensalidade é R$ {formacao.CalcularMensalidade()}\n");
                     break;
 
                     case 2:
@@ -66,17 +64,21 @@ namespace Fiap.Aula06.Exercicio01_v02
                         Console.WriteLine("Digite a nota 3");
                         float nota3 = float.Parse(Console.ReadLine());
 
-                        Console.WriteLine($"A média é {formacao.CalcularMedia(nota1, nota2, nota3)}");
+                        Console.WriteLine($"A média é {formacao.CalcularMedia(nota1, nota2, nota3)}\n");
                     break;
 
                     case 0:
-                        Console.WriteLine("SAINDO...");
+                        Console.WriteLine("SAINDO...\n");
                     break;
 
                     default:
-                        Console.WriteLine("Opção Inválida...");
+                        Console.WriteLine("Opção Inválida...\n");
                     break;
                 }
+
+                //Exibir os dados do objeto
+                Console.WriteLine(formacao);
+
             } while (opcao != 0);
         }
     }
