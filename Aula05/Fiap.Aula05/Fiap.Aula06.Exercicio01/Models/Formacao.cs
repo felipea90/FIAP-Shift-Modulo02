@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Fiap.Aula06.Exercicio01.Models
+﻿namespace Fiap.Aula06.Exercicio01.Models
 {
     public class Formacao
     {
@@ -8,24 +6,35 @@ namespace Fiap.Aula06.Exercicio01.Models
         public int Duracao { get; set; }
         public decimal Mensalidade { get; set; }
         public Instituicao Instituicao { get; set; }
+        public bool Bacharelado { get; set; }
+        public bool Tecnologo { get; set; }
 
         public Formacao(string nome)
         {
             Nome = nome;
         }
 
-        void DefinirDuracao()
+        public void DefinirDuracao()
         {
-            if (Nome.ToLower() == "tecnologo")
+            if (Tecnologo)
             {
                 Duracao = 24;
             }
-            else if (Nome.ToLower().Contains("engenharia"))
+            else if (Bacharelado)
             {
-                Duracao = 60;
+                if(Nome.ToLower().Contains("engenharia"))
+                {
+                    Duracao = 60;
+                }
+                else
+                {
+                    Duracao = 48;
+                }
             }
-
-            Duracao = 48;
+            else
+            {
+                Duracao = 48;
+            }
         }
 
         public float CalcularMedia(float nota1, float nota2)
@@ -42,6 +51,7 @@ namespace Fiap.Aula06.Exercicio01.Models
 
         public virtual decimal CalcularMensalidade()
         {
+            DefinirDuracao();
             return Mensalidade = Duracao * 400;
         }
     }

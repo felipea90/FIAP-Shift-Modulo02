@@ -10,6 +10,7 @@
 
         public override decimal CalcularMensalidade()
         {
+            DefinirDuracao();
             return Mensalidade = Duracao * 500;
         }
     }
