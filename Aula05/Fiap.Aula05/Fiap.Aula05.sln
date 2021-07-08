@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap.Aula05.Exercicio01", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap.Aula06.Exercicio01", "Fiap.Aula06.Exercicio01\Fiap.Aula06.Exercicio01.csproj", "{271C300D-0D89-4449-BE9E-C25B61FFEDD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula06.Exercicio01_v02", "Fiap.Aula06.Exercicio01_v02\Fiap.Aula06.Exercicio01_v02.csproj", "{E40A0AEE-72EF-41B6-BB19-4341A03B5788}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap.Aula06.Exercicio01_v02", "Fiap.Aula06.Exercicio01_v02\Fiap.Aula06.Exercicio01_v02.csproj", "{E40A0AEE-72EF-41B6-BB19-4341A03B5788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula07.Exemplo01", "Fiap.Aula07.Exemplo01\Fiap.Aula07.Exemplo01.csproj", "{95073E84-A709-4431-B1E5-64F1E1783A3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap.Aula07.Exemplo01", "Fiap.Aula07.Exemplo01\Fiap.Aula07.Exemplo01.csproj", "{95073E84-A709-4431-B1E5-64F1E1783A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula08.Exercicio01", "Fiap.Aula08.Exercicio01\Fiap.Aula08.Exercicio01.csproj", "{5FE4B0C0-5F45-4766-9D8B-CD477626CDDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{95073E84-A709-4431-B1E5-64F1E1783A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95073E84-A709-4431-B1E5-64F1E1783A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95073E84-A709-4431-B1E5-64F1E1783A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE4B0C0-5F45-4766-9D8B-CD477626CDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE4B0C0-5F45-4766-9D8B-CD477626CDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE4B0C0-5F45-4766-9D8B-CD477626CDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE4B0C0-5F45-4766-9D8B-CD477626CDDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
