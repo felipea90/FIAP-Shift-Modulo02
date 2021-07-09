@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula03\\Fiap.Aula03\\Exercicio01\\Fiap.Aula03.Exercicio01.csproj",
+      "projectUniqueName": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula03\\Fiap.Aula03\\Fiap.Aula03.Exercicio01\\Fiap.Aula03.Exercicio01.csproj",
       "projectName": "Fiap.Aula03.Exercicio01",
-      "projectPath": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula03\\Fiap.Aula03\\Exercicio01\\Fiap.Aula03.Exercicio01.csproj",
+      "projectPath": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula03\\Fiap.Aula03\\Fiap.Aula03.Exercicio01\\Fiap.Aula03.Exercicio01.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula03\\Fiap.Aula03\\Exercicio01\\obj\\",
+      "outputPath": "E:\\FIAP - Shift\\Mastering C\\Modulo 02\\FIAP-Shift-Modulo02\\Aula03\\Fiap.Aula03\\Fiap.Aula03.Exercicio01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
