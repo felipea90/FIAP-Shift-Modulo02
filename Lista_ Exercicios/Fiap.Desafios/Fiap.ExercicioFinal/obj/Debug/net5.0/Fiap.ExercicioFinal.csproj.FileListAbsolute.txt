@@ -1,0 +1,16 @@
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\bin\Debug\net5.0\Fiap.ExercicioFinal.exe
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\bin\Debug\net5.0\Fiap.ExercicioFinal.deps.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\bin\Debug\net5.0\Fiap.ExercicioFinal.runtimeconfig.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\bin\Debug\net5.0\Fiap.ExercicioFinal.runtimeconfig.dev.json
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\bin\Debug\net5.0\Fiap.ExercicioFinal.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\bin\Debug\net5.0\ref\Fiap.ExercicioFinal.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\bin\Debug\net5.0\Fiap.ExercicioFinal.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\obj\Debug\net5.0\Fiap.ExercicioFinal.csprojAssemblyReference.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\obj\Debug\net5.0\Fiap.ExercicioFinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\obj\Debug\net5.0\Fiap.ExercicioFinal.AssemblyInfoInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\obj\Debug\net5.0\Fiap.ExercicioFinal.AssemblyInfo.cs
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\obj\Debug\net5.0\Fiap.ExercicioFinal.csproj.CoreCompileInputs.cache
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\obj\Debug\net5.0\Fiap.ExercicioFinal.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\obj\Debug\net5.0\ref\Fiap.ExercicioFinal.dll
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\obj\Debug\net5.0\Fiap.ExercicioFinal.pdb
+E:\FIAP - Shift\Mastering C\Modulo 02\FIAP-Shift-Modulo02\Lista_ Exercicios\Fiap.Desafios\Fiap.ExercicioFinal\obj\Debug\net5.0\Fiap.ExercicioFinal.genruntimeconfig.cache
