@@ -1,4 +1,5 @@
-﻿using Fiap.Aula08.Exemplo01.Services;
+﻿using Fiap.Aula08.Exemplo01.Exceptions;
+using Fiap.Aula08.Exemplo01.Services;
 using System;
 
 namespace Fiap.Aula08.Exemplo01
@@ -32,10 +33,21 @@ namespace Fiap.Aula08.Exemplo01
 
             //Interface -> Diminuir o acoplamento (dependência) entre os projetos
             //Instanciar um EmailMessage
-            IMessage message = new EmailMessage();
+            IMessage message = new SmsMessage();
 
-            //Chamar o método que envia a mensagem
-            message.EnviarMensagem(msg);
+            try
+            {
+                //Chamar o método que envia a mensagem
+                message.EnviarMensagem(msg);
+            }
+            catch (InvalidMessageException e)
+            {
+                Console.WriteLine($"Erro: " + e.Message);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
         }
     }
